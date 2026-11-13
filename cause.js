@@ -11,7 +11,7 @@
         gif: "gif2.gif"
     },
     { 
-        text: "Wishing you success, happiness, and everything your heart desires. ✨ ", 
+        text: "Your going to be an amzing doctor! Who will save so many lifes! ✨ ", 
         emoji: "💕",
         gif: "gif1.gif"
     },
